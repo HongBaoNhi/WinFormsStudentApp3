@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WindowsFormsApp1/.vs/WindowsFormsApp1.slnx/v18/.wsuo
+/WindowsFormsApp1/.vs/WindowsFormsApp1.slnx/v18
